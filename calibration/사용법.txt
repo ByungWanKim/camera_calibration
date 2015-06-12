@@ -1,0 +1,14 @@
+Python 2.7.9
+Numpy 1.9.2
+Opencv2 3.0.0
+Matplotlib 1.4.3
+scipy 0.15.1
+1. write down the input image names in the image_name_calib.txt file
+2. run calib_gui_normal.py
+3. press the button named Extract grid corners
+4. press the button named Calibration
+
+
+
+
+
